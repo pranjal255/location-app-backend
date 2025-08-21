@@ -115,4 +115,3 @@ This project is licensed under the MIT License.
 ## 🔗 Related Repositories
 
 - [Mobile App](https://github.com/pranjal255/location-app-mobile) - React Native mobile application
-- [Main Project](https://github.com/pranjal255/location-app-project) - Project overview and documentation
